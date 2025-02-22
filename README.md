@@ -11,8 +11,8 @@ I am also utilizing Java libraries for some of these problems. Additionally, I a
 ### Objective✍️
 
 - Make an effort to learn new functions, recursion, loops, input/output (I/O), libraries, and more. 
-- Build a good understanding of Oops concepts, along with questions, problems, and their solutions.
-- Upskill myself with new technology.
+- Build a good understanding of Oops concepts, DSA problems along with questions, problems, and their solutions.
+- Aim to upskill myself with new technologies and enhance my problem-solving skills
 - Try to explore new things in technology using the Python programming language.
 
 ### Work and Learning by- [ Abhay Mishra 🧑‍💻 ]
