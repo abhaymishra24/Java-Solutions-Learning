@@ -4,3 +4,6 @@ Java is a high-level, general-purpose, memory-safe, object-oriented programming 
 It is intended to let programmers write once, run anywhere, meaning that compiled Java code can run on all platforms that support Java without the need to recompile.
 
 ![java logo](https://github.com/abhaymishra24/Java-Solutions-Learning/blob/main/javaimage1.jpg)
+
+In this project, I am working on various Java programming questions and problems. I aim to learn new solutions and tackle Java programming challenges ranging from basic to advanced, while also learning OOPs concepts and DSA problems. 
+I am also utilizing Java libraries for some of these problems. Additionally, I am trying to learn how to solve more complex problems and apply these skills to real-world scenarios.
