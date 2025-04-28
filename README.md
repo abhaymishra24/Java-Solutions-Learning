@@ -16,7 +16,7 @@ I am also utilizing Java libraries for some of these problems. Additionally, I a
 - Aim to upskill myself with new technologies and enhance my problem-solving skills
 - Try to explore new things in technology using the Java programming language.
 
-### Work and Learning by- [ Abhay Mishra 🧑‍💻 ]
+### Work and learning by- [ Abhay Mishra 🧑‍💻 ]
 
 I aim to learn new solutions and tackle Java programming challenges ranging from basic to advanced levels. 
 Learning new libraries and functions in Java to upskill myself. 
