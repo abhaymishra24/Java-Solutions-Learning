@@ -7,10 +7,13 @@ public class Oops_problem1 {
         int age = 25;
         String city = "Delhi";
         String school = "IIT Delhi";
+        String stream = "CSE";
 
-        System.out.println("Name: " + age);
-        System.out.println("Age: " + name);
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
         System.out.println("City: " + city);
         System.out.println("School: " + school);
+        System.out.println("Stream: " + stream);
     }
 }
+
