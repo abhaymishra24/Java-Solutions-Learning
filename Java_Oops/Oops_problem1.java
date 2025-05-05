@@ -16,5 +16,3 @@ public class Oops_problem1 {
         System.out.println("Stream: " + stream);
     }
 }
-
-
