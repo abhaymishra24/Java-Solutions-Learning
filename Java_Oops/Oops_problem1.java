@@ -3,13 +3,13 @@
 
 public class Oops_problem1 {
     public static void main(String[] args) {
-        String name = "John Doe";
+        String name = "Abhay";
         int age = 25;
-        String city = "New York";
-        String school = "ABC High School";
+        String city = "Delhi";
+        String school = "IIT Delhi";
 
-        System.out.println("Name: " + name);
-        System.out.println("Age: " + age);
+        System.out.println("Name: " + age);
+        System.out.println("Age: " + name);
         System.out.println("City: " + city);
         System.out.println("School: " + school);
     }
