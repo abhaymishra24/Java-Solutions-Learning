@@ -42,12 +42,12 @@ public class Oops_problem3 {
         while (true) {
             System.out.print(user1.getName() + ": ");
             String message1 = scanner.nextLine();
-            if (message1.equalsIgnoreCase("exit")) break;
+            if (message1.equalsIgnoreCase("Bye")) break;
             user1.sendMessage(chatSystem, message1);
 
             System.out.print(user2.getName() + ": ");
             String message2 = scanner.nextLine();
-            if (message2.equalsIgnoreCase("exit")) break;
+            if (message2.equalsIgnoreCase("bye")) break;
             user2.sendMessage(chatSystem, message2);
         }
 
