@@ -1,20 +1,18 @@
 
-// // In this code we will see that how to swap two number using without third vriable
+// In this code we will see how to swap two numbers without using a third variable
 
+class swaping {
 
-// class swaping{
+	public static void main(String[] args) {
 
-//     public static void main(String[]args)
-// {
+		int a = 5;
+		int b = 10;
 
-//     int a= 5;
-//     int b=10;
+		a = a + b;
+		b = a - b;
+		a = a - b;
 
-//     a=a+b;
-//     b=a-b;
-//     a=a-b;
+		System.out.println("after swap " + a + " and " + b);
 
-//     System.out.println("after swap" + a + "and" +b); 
-
-// }
-// }
+	}
+}
